@@ -28,8 +28,8 @@ d4 = {x:y for x,y in zip(L1,L2)}
 print(type(d4),d4)
 d4 = {(x,y) for x,y in zip(L1,L2)}
 print(type(d4),d4)
-
 d5 = {x:y for x,y in enumerate(L2)}
 print(type(d5),d5)
 d6 = {x:y for x,y in enumerate(L1)}
 print(type(d6),d6)
+
