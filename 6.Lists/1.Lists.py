@@ -9,3 +9,6 @@ l1.append(100)
 print(l1)
 l2 = list((1,2,3,4,5)) # must use double parenthesis
 print(l2)
+
+name = input('Enter name:')
+print(f'Your name is {name}.')
