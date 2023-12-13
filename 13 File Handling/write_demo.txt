@@ -1,0 +1,5 @@
+Hello
+This is a demo file for writing mode.
+Write mode creates a new file if the file doesnt exist.
+This is demo for append method
+Append method adds content to the end of the existing file.

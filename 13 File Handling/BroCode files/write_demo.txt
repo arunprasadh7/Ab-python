@@ -1,0 +1,4 @@
+Hell0
+This is a newly written file.
+This is also newly appended text.
+This is second appended line.
